@@ -7,7 +7,7 @@
 
 An intelligent, dual-module system built within the Google Workspace ecosystem to automate the entire job search. It transforms a Google Sheet into a command center by intelligently parsing both active application updates and new job leads from your inbox, and culminates in a live, interactive analytics dashboard.
 
-[<img src="[https://i.imgur.com/your-dashboard-screenshot-url.png](https://imgur.com/a/RsJD7Jw)" alt="Master Job Manager Dashboard Screenshot">](https://docs.google.com/spreadsheets/d/1QdqVZITapArTKGnBlpRGvAmpPPqCAvxng3SWYvNPZL0/edit#gid=0)
+[<img src="https://imgur.com/a/RsJD7Jw" alt="Master Job Manager Dashboard Screenshot">](https://docs.google.com/spreadsheets/d/1QdqVZITapArTKGnBlpRGvAmpPPqCAvxng3SWYvNPZL0/edit#gid=0)
 *(Click the image to see a live example of the dashboard)*
 
 ---
