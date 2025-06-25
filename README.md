@@ -1,4 +1,4 @@
-# Career_Suite_v5
+# Career_Suite_AI_v5
 # Master Job Manager: An AI-Powered Job Analytics Platform **REVISED NAME**
 
 [![Project Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://github.com/your-username/your-repo-name)
